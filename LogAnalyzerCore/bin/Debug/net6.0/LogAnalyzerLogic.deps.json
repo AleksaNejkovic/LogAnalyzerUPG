@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LogAnalyzerLogic/1.0.0": {
+        "dependencies": {
+          "LogAnalyzerClassLibrary": "1.0.0",
+          "LogAnalyzerConstantsLibrary": "1.0.0"
+        },
+        "runtime": {
+          "LogAnalyzerLogic.dll": {}
+        }
+      },
+      "LogAnalyzerClassLibrary/1.0.0": {
+        "runtime": {
+          "LogAnalyzerClassLibrary.dll": {}
+        }
+      },
+      "LogAnalyzerConstantsLibrary/1.0.0": {
+        "runtime": {
+          "LogAnalyzerConstantsLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LogAnalyzerLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LogAnalyzerClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LogAnalyzerConstantsLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

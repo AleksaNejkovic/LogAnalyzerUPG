@@ -1,0 +1,12 @@
+D:\Projekti 2023\LogAnalyzerUPG\LogAnalyzerConstants\bin\Debug\net6.0\LogAnalyzerConstantsLibrary.deps.json
+D:\Projekti 2023\LogAnalyzerUPG\LogAnalyzerConstants\bin\Debug\net6.0\LogAnalyzerConstantsLibrary.dll
+D:\Projekti 2023\LogAnalyzerUPG\LogAnalyzerConstants\bin\Debug\net6.0\LogAnalyzerConstantsLibrary.pdb
+D:\Projekti 2023\LogAnalyzerUPG\LogAnalyzerConstants\obj\Debug\net6.0\LogAnalyzerConstantsLibrary.csproj.AssemblyReference.cache
+D:\Projekti 2023\LogAnalyzerUPG\LogAnalyzerConstants\obj\Debug\net6.0\LogAnalyzerConstantsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projekti 2023\LogAnalyzerUPG\LogAnalyzerConstants\obj\Debug\net6.0\LogAnalyzerConstantsLibrary.AssemblyInfoInputs.cache
+D:\Projekti 2023\LogAnalyzerUPG\LogAnalyzerConstants\obj\Debug\net6.0\LogAnalyzerConstantsLibrary.AssemblyInfo.cs
+D:\Projekti 2023\LogAnalyzerUPG\LogAnalyzerConstants\obj\Debug\net6.0\LogAnalyzerConstantsLibrary.csproj.CoreCompileInputs.cache
+D:\Projekti 2023\LogAnalyzerUPG\LogAnalyzerConstants\obj\Debug\net6.0\LogAnalyzerConstantsLibrary.dll
+D:\Projekti 2023\LogAnalyzerUPG\LogAnalyzerConstants\obj\Debug\net6.0\refint\LogAnalyzerConstantsLibrary.dll
+D:\Projekti 2023\LogAnalyzerUPG\LogAnalyzerConstants\obj\Debug\net6.0\LogAnalyzerConstantsLibrary.pdb
+D:\Projekti 2023\LogAnalyzerUPG\LogAnalyzerConstants\obj\Debug\net6.0\ref\LogAnalyzerConstantsLibrary.dll
