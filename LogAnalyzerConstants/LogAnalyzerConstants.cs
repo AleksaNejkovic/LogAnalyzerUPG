@@ -8,8 +8,8 @@ namespace LogAnalyzerConstantsLibrary
 {
     public static class LogAnalyzerConstants
     {
-        public const string LOG_DIR_ex040730 = $"C:\\Users\\nejko\\Desktop\\UPG TEST\\ex040730.log";
-        public const string LOG_DIR_ex120326 = $"C:\\Users\\nejko\\Desktop\\UPG TEST\\ex120326.log";
+        public const string LOG_DIR_ex040730 = $"~\\ex040730.log";
+        public const string LOG_DIR_ex120326 = $"~\\ex120326.log";
 
         public const string LOG_SEARCH_FIELDS = $"#Fields:";
 
