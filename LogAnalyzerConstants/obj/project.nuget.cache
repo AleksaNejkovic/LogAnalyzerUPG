@@ -1,8 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "BVzz7g8vcTVwcvJHt7YVbnHm5AudBnXGwXfAB1Cr+fX4hDjiZrj29gnh3H1qfG1KU3Z+a04WyvRv2q/8y2mRmg==",
+  "dgSpecHash": "9wwgcFWd23T9AnsOVr+DDZcZTwGjVvUhpnx/a1qUvvaI3fjyCFr/sqtUDrJaMcMZn7iyQmq+hKR8PEXubaERpw==",
   "success": true,
   "projectFilePath": "D:\\Projekti 2023\\LogAnalyzerUPG\\LogAnalyzerConstants\\LogAnalyzerConstantsLibrary.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\nejko\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\nejko\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\nejko\\.nuget\\packages\\system.globalization\\4.3.0\\system.globalization.4.3.0.nupkg.sha512",
+    "C:\\Users\\nejko\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\nejko\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\nejko\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\nejko\\.nuget\\packages\\system.resources.resourcemanager\\4.3.0\\system.resources.resourcemanager.4.3.0.nupkg.sha512",
+    "C:\\Users\\nejko\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\nejko\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\nejko\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
   "logs": []
 }

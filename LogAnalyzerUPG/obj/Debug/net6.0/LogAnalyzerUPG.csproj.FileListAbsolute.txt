@@ -1,8 +1,3 @@
-D:\Projekti 2023\LogAnalyzerUPG\LogAnalyzerUPG\obj\Debug\net6.0\LogAnalyzerUPG.csproj.AssemblyReference.cache
-D:\Projekti 2023\LogAnalyzerUPG\LogAnalyzerUPG\obj\Debug\net6.0\LogAnalyzerUPG.GeneratedMSBuildEditorConfig.editorconfig
-D:\Projekti 2023\LogAnalyzerUPG\LogAnalyzerUPG\obj\Debug\net6.0\LogAnalyzerUPG.AssemblyInfoInputs.cache
-D:\Projekti 2023\LogAnalyzerUPG\LogAnalyzerUPG\obj\Debug\net6.0\LogAnalyzerUPG.AssemblyInfo.cs
-D:\Projekti 2023\LogAnalyzerUPG\LogAnalyzerUPG\obj\Debug\net6.0\LogAnalyzerUPG.csproj.CoreCompileInputs.cache
 D:\Projekti 2023\LogAnalyzerUPG\LogAnalyzerUPG\bin\Debug\net6.0\LogAnalyzerUPG.exe
 D:\Projekti 2023\LogAnalyzerUPG\LogAnalyzerUPG\bin\Debug\net6.0\LogAnalyzerUPG.deps.json
 D:\Projekti 2023\LogAnalyzerUPG\LogAnalyzerUPG\bin\Debug\net6.0\LogAnalyzerUPG.runtimeconfig.json
@@ -14,6 +9,11 @@ D:\Projekti 2023\LogAnalyzerUPG\LogAnalyzerUPG\bin\Debug\net6.0\LogAnalyzerLogic
 D:\Projekti 2023\LogAnalyzerUPG\LogAnalyzerUPG\bin\Debug\net6.0\LogAnalyzerClassLibrary.pdb
 D:\Projekti 2023\LogAnalyzerUPG\LogAnalyzerUPG\bin\Debug\net6.0\LogAnalyzerConstantsLibrary.pdb
 D:\Projekti 2023\LogAnalyzerUPG\LogAnalyzerUPG\bin\Debug\net6.0\LogAnalyzerLogic.pdb
+D:\Projekti 2023\LogAnalyzerUPG\LogAnalyzerUPG\obj\Debug\net6.0\LogAnalyzerUPG.csproj.AssemblyReference.cache
+D:\Projekti 2023\LogAnalyzerUPG\LogAnalyzerUPG\obj\Debug\net6.0\LogAnalyzerUPG.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projekti 2023\LogAnalyzerUPG\LogAnalyzerUPG\obj\Debug\net6.0\LogAnalyzerUPG.AssemblyInfoInputs.cache
+D:\Projekti 2023\LogAnalyzerUPG\LogAnalyzerUPG\obj\Debug\net6.0\LogAnalyzerUPG.AssemblyInfo.cs
+D:\Projekti 2023\LogAnalyzerUPG\LogAnalyzerUPG\obj\Debug\net6.0\LogAnalyzerUPG.csproj.CoreCompileInputs.cache
 D:\Projekti 2023\LogAnalyzerUPG\LogAnalyzerUPG\obj\Debug\net6.0\LogAnalyzerUPG.csproj.CopyComplete
 D:\Projekti 2023\LogAnalyzerUPG\LogAnalyzerUPG\obj\Debug\net6.0\LogAnalyzerUPG.dll
 D:\Projekti 2023\LogAnalyzerUPG\LogAnalyzerUPG\obj\Debug\net6.0\refint\LogAnalyzerUPG.dll

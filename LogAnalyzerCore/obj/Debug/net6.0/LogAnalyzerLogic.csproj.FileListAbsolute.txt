@@ -1,8 +1,3 @@
-D:\Projekti 2023\LogAnalyzerUPG\LogAnalyzerCore\obj\Debug\net6.0\LogAnalyzerLogic.csproj.AssemblyReference.cache
-D:\Projekti 2023\LogAnalyzerUPG\LogAnalyzerCore\obj\Debug\net6.0\LogAnalyzerLogic.GeneratedMSBuildEditorConfig.editorconfig
-D:\Projekti 2023\LogAnalyzerUPG\LogAnalyzerCore\obj\Debug\net6.0\LogAnalyzerLogic.AssemblyInfoInputs.cache
-D:\Projekti 2023\LogAnalyzerUPG\LogAnalyzerCore\obj\Debug\net6.0\LogAnalyzerLogic.AssemblyInfo.cs
-D:\Projekti 2023\LogAnalyzerUPG\LogAnalyzerCore\obj\Debug\net6.0\LogAnalyzerLogic.csproj.CoreCompileInputs.cache
 D:\Projekti 2023\LogAnalyzerUPG\LogAnalyzerCore\bin\Debug\net6.0\LogAnalyzerLogic.deps.json
 D:\Projekti 2023\LogAnalyzerUPG\LogAnalyzerCore\bin\Debug\net6.0\LogAnalyzerLogic.dll
 D:\Projekti 2023\LogAnalyzerUPG\LogAnalyzerCore\bin\Debug\net6.0\LogAnalyzerLogic.pdb
@@ -10,6 +5,11 @@ D:\Projekti 2023\LogAnalyzerUPG\LogAnalyzerCore\bin\Debug\net6.0\LogAnalyzerClas
 D:\Projekti 2023\LogAnalyzerUPG\LogAnalyzerCore\bin\Debug\net6.0\LogAnalyzerConstantsLibrary.dll
 D:\Projekti 2023\LogAnalyzerUPG\LogAnalyzerCore\bin\Debug\net6.0\LogAnalyzerClassLibrary.pdb
 D:\Projekti 2023\LogAnalyzerUPG\LogAnalyzerCore\bin\Debug\net6.0\LogAnalyzerConstantsLibrary.pdb
+D:\Projekti 2023\LogAnalyzerUPG\LogAnalyzerCore\obj\Debug\net6.0\LogAnalyzerLogic.csproj.AssemblyReference.cache
+D:\Projekti 2023\LogAnalyzerUPG\LogAnalyzerCore\obj\Debug\net6.0\LogAnalyzerLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projekti 2023\LogAnalyzerUPG\LogAnalyzerCore\obj\Debug\net6.0\LogAnalyzerLogic.AssemblyInfoInputs.cache
+D:\Projekti 2023\LogAnalyzerUPG\LogAnalyzerCore\obj\Debug\net6.0\LogAnalyzerLogic.AssemblyInfo.cs
+D:\Projekti 2023\LogAnalyzerUPG\LogAnalyzerCore\obj\Debug\net6.0\LogAnalyzerLogic.csproj.CoreCompileInputs.cache
 D:\Projekti 2023\LogAnalyzerUPG\LogAnalyzerCore\obj\Debug\net6.0\LogAnalyzerLogic.csproj.CopyComplete
 D:\Projekti 2023\LogAnalyzerUPG\LogAnalyzerCore\obj\Debug\net6.0\LogAnalyzerLogic.dll
 D:\Projekti 2023\LogAnalyzerUPG\LogAnalyzerCore\obj\Debug\net6.0\refint\LogAnalyzerLogic.dll
