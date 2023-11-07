@@ -14,9 +14,5 @@ namespace LogAnalyzerConstantsLibrary
         public const int LOG_NUMBER_OF_FIELD_ex040730 = 14;
         public const int LOG_NUMBER_OF_FIELD_ex120326 = 18;
 
-        public static void PodesiPutanje()
-        {
-            
-        }
     }
 }
